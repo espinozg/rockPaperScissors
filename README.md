@@ -1,3 +1,3 @@
 # rockPaperScissors
 
-In this file click on pic to the left that is player one and the left side is the computer. Then play like and have fun. 
+In this file click on your choice with the pics at the bottom and press start button.  To the left is player one and the right side is the computer. Then play like you normally would and have fun. 
