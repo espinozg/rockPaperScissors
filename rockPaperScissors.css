@@ -1,0 +1,161 @@
+body{
+	background-color:black;
+	margin: 0;
+	
+}
+
+#container{
+	margin: 0 auto;
+	width:800px;
+	height:800px;
+	border-radius:10px;
+	background-color:gray;
+	position: relative;
+	top:200px;
+	
+}
+
+#innerBox{
+	margin: 0 auto;
+	width:700px;
+	height:80px;
+	border-radius:10px;
+	background-color:white
+}
+
+#play1{
+	position:relative;
+	float:left;
+	
+}
+
+#play2{
+	position:relative;
+	float:right;
+	
+	
+}
+
+#resultsDiv{
+	width:200px;
+	height:200px;
+	border-radius:10px;
+	background-color:white;
+	position: relative;
+	left:250px;
+	
+}
+
+#winnerPic{
+	position:absolute;
+	z-index:1;
+	display:none;
+}
+
+#loserPic{
+	position:absolute;
+	z-index:2;
+	display:none;
+}
+
+
+#tiePic{
+	position:absolute;
+	z-index:3;
+	display:none;
+}
+
+#start{
+	position:relative;
+	top:-160px;
+}
+
+h1{
+	font-size:50px;
+	text-align:center;
+}
+
+#rightPlayerBox{
+	width:200px;
+	height:200px;
+	border-radius:10px;
+	background-color:white;
+	position: relative;
+	top:-170px;
+}
+
+#versusPic{
+	position:relative;
+	top:-350px;
+	left:245px;
+}
+
+
+#leftPlayerBox{
+	width:200px;
+	height:200px;
+	border-radius:10px;
+	background-color:white;
+	position: relative;
+	top:-570px;
+	left:500px;
+}
+#pictureChoices{
+	margin: 0 auto;
+	position:relative;
+	float:left;
+	padding-left:35px;
+	top:-500px;
+	background-color:green;
+	height:200px;
+	width:650px;
+	border-radius:10px;
+	left:10px;
+}
+
+#rockElement{
+	position:absolute;
+	z-index:1;
+	display:none;
+}
+
+
+#paperElement{
+	position:absolute;
+	z-index:2;
+	display:none;
+}
+
+#scissorsElement{
+	position:absolute;
+	z-index:3;
+	display:none;
+}
+
+
+#rockElementCom{
+	position:absolute;
+	z-index:1;
+	display:none;
+}
+
+
+#paperElementCom{
+	position:absolute;
+	z-index:2;
+	display:none;
+}
+
+#scissorsElementCom{
+	position:absolute;
+	z-index:3;
+	display:none;
+}
+
+
+
+
+
+
+
+
